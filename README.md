@@ -1,5 +1,8 @@
-This project is one simple test using HTTParty, JsonSchema and PageObject.
+# This project is one simple test using HTTParty, JsonSchema and PageObject.
 
+## JsonSchema Generation ##
+- You can use the site https://jsonschema.net for generete your JsonSchema.
+- Copy Json and paste in jsonschema.net, you can edit properties of Json alternating between optional and required.
 
 ## Mock.io ##
 - Online tool for testing REST APIs with real HTTP responses.
@@ -35,7 +38,3 @@ This project is one simple test using HTTParty, JsonSchema and PageObject.
 	}
 }
 
-
-### JsonSchema Generation ###
-- You can use the site https://jsonschema.net for generete your JsonSchema.
-- Copy Json and paste in jsonschema.net, you can edit properties of Json alternating between optional and required.
